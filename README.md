@@ -34,7 +34,7 @@
 
 🔹 Frontend: HTML, CSS, Bootstrap
 
-💞️ **I’m looking to collaborate on**
+🧠 **I’m looking to collaborate on**
 
 🛠️ Open-source projects involving machine learning or data engineering
 
