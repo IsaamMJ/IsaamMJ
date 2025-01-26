@@ -24,6 +24,16 @@
 
 ⚡ Real-time data processing and streaming solutions
 
+🛠️ **Frameworks & Technologies**
+
+🔹 Hadoop, Spark, PySpark, HIVE
+
+🔹 Firebase, Google Cloud Platform (BigQuery, Cloud Run)
+
+🔹 Docker, Flask
+
+🔹 Frontend: HTML, CSS, Bootstrap
+
 💞️ **I’m looking to collaborate on**
 
 🛠️ Open-source projects involving machine learning or data engineering
