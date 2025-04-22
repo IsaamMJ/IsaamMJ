@@ -18,7 +18,7 @@
 
 🌱 **I’m currently learning**
 
-📚 Next.js , Docker
+📚 Next.js , Docker , Flutter
 
 ☁️ Advanced cloud platforms like Google Cloud and Azure
 
