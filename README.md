@@ -4,7 +4,7 @@
  
 👋 **Hey there, I’m IsaamMJ**
 
-🎓 A final-year Computer Science student passionate about designing and developing efficient, high-performance applications.
+🎓 A Computer Science Graduate passionate about designing and developing efficient, high-performance applications.
 
 👀 **I’m interested in**
 
